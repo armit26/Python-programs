@@ -1,10 +1,11 @@
 # Python Basic Programs
 
-This repository contains basic Python programs created while practicing programming and learning Python.
+This repository contains Python programs and mini-projects created while practicing programming and learning Python.
 
 ## Programs Included
 
 * Password Strength Checker
+* ATM Simulator
 * Even or Odd Checker
 * Compare Numbers
 * Rock Paper Scissors Game
@@ -19,7 +20,8 @@ This repository contains basic Python programs created while practicing programm
 * Boolean Variables
 * Random Module
 * Basic Password Validation
+* Menu-Driven Programs
+* Arithmetic Operations
 * Problem Solving
 
-More programs will be added as I continue learning Python and Computer Science fundamentals.
-
+More programs and projects will be added as I continue learning Python and Computer Science fundamentals.
